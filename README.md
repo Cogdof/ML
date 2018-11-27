@@ -1,7 +1,8 @@
 # ML
-Machine Learning in MLL
+Machine Learning
 
+
+- MNIST with keras
 - Using pycharm or colab
 - Learn to use tensorflow 
-- Learn Faster R-CNN
 - Need add require
